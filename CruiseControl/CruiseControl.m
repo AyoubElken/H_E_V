@@ -1,7 +1,7 @@
 % Drag Force coef:
 Ca = 0.3;
 A = 1.4;%sqm
-p = 1225;%Kg/m^3
+p = 1.225;%Kg/m^3
 % Road&Incline coef:
 Mv = 1200;%Kg
 g = 9.81;
